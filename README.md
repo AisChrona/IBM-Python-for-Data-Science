@@ -19,10 +19,5 @@ It includes basic to intermediate Python concepts tailored for data science like
 
 ---
 
-### 🏁 Certificate & Badge:
-✔️ [Attach certificate/badge as image or PDF]  
-✔️ [Link to Course or Certificate if public]
-
----
 
 > ⚡ This was my first proper step in blending Python with data. The journey continues! ✨
