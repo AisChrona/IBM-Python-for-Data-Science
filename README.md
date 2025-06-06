@@ -18,7 +18,7 @@ I started from the very basics and worked my way through Python fundamentals, da
 • File reading & dataset handling
 • NumPy for data computation & arrays
 
-# Slowly progressing towards my dream — thank you IBM!
+ Slowly progressing towards my dream — thank you IBM!
 
 
 > ⚡ This was my first proper step in blending Python with data. The journey continues! ✨
